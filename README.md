@@ -1,7 +1,4 @@
 
-## What I'm learned? 
-* Face API.
-* Working with Async/Await and public API
 ## Project title
 App which recognize faces from picture.
 ## Motivation
