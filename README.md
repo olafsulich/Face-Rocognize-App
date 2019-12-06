@@ -1,18 +1,18 @@
 
-## Project title
+## Project title 🚀
 App which recognize faces from picture.
-## Motivation
+## Motivation 🎉
 I wanted to discover and learn some API. I choose [Face API](https://github.com/justadudewhohacks/face-api.js/)
-## Screenshots
+## Screenshots 📺
 ![Design](https://i.ibb.co/P6nTkKw/ss.png)
 
 
-## Tech/framework used
+## Tech/framework used 🔧
 - HTML5
 - SCSS
 - ES6+
 
-## Code Example/Issues
+## Code Example/Issues 🔍
 
 I used Face API documentation when I had some problems.
 
@@ -25,10 +25,10 @@ I used Face API documentation when I had some problems.
 ```
 
 
-## Installation
+## Installation  📍 
 ```bash
 npm install 
 ```
 
-## Credits
+## Credits 👏
 https://github.com/justadudewhohacks/face-api.js/helps me with many problems.
